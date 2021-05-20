@@ -6,4 +6,7 @@
 ## MS Word
 1. [Create, update word. No watermarks, thumbnails](https://python-docx.readthedocs.io/en/latest/)
 
+## Chrome doc editor
+1. https://googlechromelabs.github.io/text-editor/
+
 
