@@ -1,12 +1,12 @@
  Week | Monday | Tuesday  | Wednesday | Thursday | Friday | Saturday | Sunday | Passed |
  ---- | ------ | -------- | --------- | -------- | ------ | -------- | ------ | ------ |
-1 |   4 mi (easy) | 4 mi (steady) | 4 mi (easy) | 5 mi (steady) | - | 5 mi (steady) | 9 mi (slow) | ✅ |
-2 |   4 mi (easy) | 5 mi (easy) | 5 mi (steady) | 5 mi (easy) | - | 5 mi (steady) | 11 mi (slow) | ✅ |
-3 |   4 mi (easy) | 5 mi (steady) | 6 mi (easy) | 5 mi (steady) | - | 5 mi (steady) | 13 mi (easy) | ✅ |
-4 |   4 mi (easy) | 6 mi (easy) | 7 mi (steady) | 6 mi (easy) | - | 5 mi (easy) | 15 mi (easy, mid-5 mi pace)  | |
-5 |   4 mi (easy) | 6 mi (steady) | 8 mi (easy) | 6 mi (steady) | - | 4 mi (easy) | 13.1 mi (pace) | |
-6 |   4 mi (easy) | 6 mi (easy) | 9 mi (steady) | 6 mi (easy) | - | 5 mi (easy) | 17 mi (easy) | |
-7 |   4 mi (easy) | 6 mi (steady) | 6 mi (easy) | 7 mi (hill) | - | 4 mi (steady) | 20 mi (easy) | |
+1 |   4 mi (easy) | 4 mi (steady) | 4 mi (easy) | 5 mi (steady) | - | 5 mi (steady) | 9 mi (slow) |
+2 |   4 mi (easy) | 5 mi (easy) | 5 mi (steady) | 5 mi (easy) | - | 5 mi (steady) | 11 mi (slow) | 
+3 |   4 mi (easy) | 5 mi (steady) | 6 mi (easy) | 5 mi (steady) | - | 5 mi (steady) | 13 mi (easy) |
+4 |   4 mi (easy) | 6 mi (easy) | 7 mi (steady) | 6 mi (easy) | - | 5 mi (easy) | 15 mi (easy, mid-5 mi pace)  | 
+5 |   4 mi (easy) | 6 mi (steady) | 8 mi (easy) | 6 mi (steady) | - | 4 mi (easy) | 13.1 mi (pace) | 
+6 |   4 mi (easy) | 6 mi (easy) | 9 mi (steady) | 6 mi (easy) | - | 5 mi (easy) | 17 mi (easy) | 
+7 |   4 mi (easy) | 6 mi (steady) | 6 mi (easy) | 7 mi (hill) | - | 4 mi (steady) | 20 mi (easy) | 
 8 |   4 mi (easy) | 6 mi (easy) | 7 mi (steady) | 6  mi (steady) | - | 4 mi (easy) | 13.1 mi (steady) |
 9 |   4 mi (easy) | 6 mi (steady) | 8 mi (easy) | 6  mi (easy) | - | 4 mi (easy) | 20 mi (easy) |
 10 |   4 mi (easy) | 7 mi (steady) | 9 mi (easy) | 7  mi (easy) ; 7 x 3 mins (pace) | - | 4 mi (easy) | 15 mi (steady) |
