@@ -16,3 +16,5 @@ Week | Monday | Tuesday  | Wednesday | Thursday | Friday | Saturday | Sunday |
 14 |   4 mi (easy) | 6 mi (steady) | 7 mi (easy) | 6 mi (slow) ; 5 x 3 mins @ >; 2 mins (slow) | - | 4 mi (slow) | 15 mi (pace) |
 15 |   4 mi (easy) | 5 mi (steady) | 6 mi (easy) | 5 mi (pace) ; mid-3 (pace) | - | 4 mi (slow) | 10 mi (easy) |
 16 |   4 mi (easy) | 5 mi (steady) | 6 mi (easy) | 5 mi (hill) | - | 2 mi (slow) | 26.2 mi (pace) |
+
+Simpler version on this (plan)[https://www.runnersworld.com/uk/training/marathon/a760109/rws-basic-marathon-schedules-intermediate/]
