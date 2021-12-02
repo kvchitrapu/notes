@@ -1,3 +1,8 @@
+## Courses
+1. (Prof. Gary Gensler)[https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn]
+2. (Web3.0 Fundamentals)[https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J]
+
+
 Good old [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree) is foundation of blockchain - rollup tree of hashes
 
 Replace trust with c
