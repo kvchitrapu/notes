@@ -1,1 +1,1 @@
-1. [Image gen homebrew](https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/)
+1. [Image gen (like DALL-E) homebrew](https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/)
