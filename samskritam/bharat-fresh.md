@@ -10,4 +10,4 @@
 9. [Indology.info](https://bombay.indology.info/)
 10. [GRETIL - Göttingen Register of Electronic Texts in Indian Languages](http://gretil.sub.uni-goettingen.de/gretil.html#top) 
 11. [Oliver Helwig - DCS](http://www.sanskrit-linguistics.org/dcs/index.php?contents=impressum)
-12.
+12. [Collection of resources](https://sanskritdocuments.org/TextsElsewhere/)
